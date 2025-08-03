@@ -1,0 +1,4 @@
+hostname EDGE-SW01
+interface GigabitEthernet1/0/1
+ description Uplink to Core
+...
